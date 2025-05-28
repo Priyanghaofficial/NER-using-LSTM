@@ -4,7 +4,12 @@
 
 To develop an LSTM-based model for recognizing the named entities in the text.
 
-## Problem Statement and Dataset
+## Problem Statement:
+The task is to build an LSTM-based model to recognize named entities in text data.
+This involves preprocessing the dataset, training a BiLSTM model, and evaluating its performance.
+The model should identify and classify entities such as names, locations, and organizations.
+
+
 
 
 ## DESIGN STEPS
